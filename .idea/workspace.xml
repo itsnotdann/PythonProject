@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a1b1e24-e923-46fc-9581-0da28490dfeb" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/count digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/row-wise number pattern (nested loop).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.count digits.executor": "Run",
     "Python.multiplication table.executor": "Run",
+    "Python.print grid (nested loop).executor": "Run",
+    "Python.row-wise number pattern (nested loop).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,7 +94,31 @@
       <option name="project" value="LOCAL" />
       <updated>1785388267714</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1785388531682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1785388531682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1785388597866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785388597866</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1785388907481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785388907481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
